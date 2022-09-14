@@ -1,1 +1,1 @@
-More doc
+More documentation
